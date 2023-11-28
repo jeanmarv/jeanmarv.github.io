@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78ba8b18d40c2306fe81f6fe98710443",
+    "revision": "2270e7158ec4fd3fcd1e5d8c86e94886",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.95258f03.chunk.css"
   },
   {
-    "revision": "04b0731d3d2827e25741",
+    "revision": "692c1d9c3045af400a2e",
     "url": "/static/css/main.52226492.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.2012ff58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04b0731d3d2827e25741",
-    "url": "/static/js/main.135d7e74.chunk.js"
+    "revision": "692c1d9c3045af400a2e",
+    "url": "/static/js/main.4ae02f8d.chunk.js"
   },
   {
     "revision": "3d4965c9977dafc48a8e",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/mongoDB.7e03e886.png"
   },
   {
-    "revision": "caacdb3470282a51e0bca29fab0d454e",
-    "url": "/static/media/projeto-1.caacdb34.png"
+    "revision": "2eeea108fc90f242b62e1065d795583d",
+    "url": "/static/media/project_recipe_app.2eeea108.png"
   },
   {
     "revision": "caacdb3470282a51e0bca29fab0d454e",
